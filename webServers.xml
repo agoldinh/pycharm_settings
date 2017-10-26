@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="229daca0-25ab-48d7-8411-cc0bdfdb417c" name="agoldin.dev.hearsaylabs.com" url="http://agoldin.dev.hearsaylabs.com">
+        <fileTransfer host="agoldin.dev.hearsaylabs.com" port="22" privateKey="$USER_HOME$/Dropbox/synch_manual/sshkey/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
